@@ -1,0 +1,2 @@
+# miband4
+Update some self-made Mi Band 4 Watch Faces. Everything Can be copied and used without paying. If u like this project or watch faces, pls donate. Don't donate to my PayPal (locked). If want to work together, contact telegram: +1(518) 635-7090 Email:wang.pengc@yahoo.com Or follow me on Twitter(name is in the user description) Watch faces were packaged in .bin file. U can use MiBand4 app, WF, N&amp;F or other software to sync to band.
